@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Romero Palacios Randy Rodrigo
-- Villanueva Garcia Emanuel
+- Villanueva García Emanuel
 
 ## Nombre del proyecto
 
@@ -64,6 +64,8 @@ De esta manera, los diferentes flujos utilizan una misma pantalla de detalle y s
 ### Flujo general
 
 ![Flujo de usuario de OpenBooks](wireframes/07-flujo-usuario.png)
+
+**Detalle del libro** y **Mis libros** se repiten en el diagrama para mostrar con mayor claridad los distintos recorridos, pero corresponden a las mismas pantallas de la aplicación.
 
 ## Wireframes
 
