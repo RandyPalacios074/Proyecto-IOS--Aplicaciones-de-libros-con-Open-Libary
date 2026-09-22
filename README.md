@@ -63,7 +63,7 @@ De esta manera, los diferentes flujos utilizan una misma pantalla de detalle y s
 
 ### Flujo general
 
-![Flujo de usuario de OpenBooks](wireframes/07-flujo-usuario.png)
+<img width="1448" height="1086" alt="07-flujo-usuario" src="https://github.com/user-attachments/assets/94d1fd79-b720-4552-b10b-a96da13f356d" />
 
 **Detalle del libro** y **Mis libros** se repiten en el diagrama para mostrar con mayor claridad los distintos recorridos, pero corresponden a las mismas pantallas de la aplicación.
 
